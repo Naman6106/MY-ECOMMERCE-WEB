@@ -11,3 +11,11 @@ nav {
     color: white;
     padding: 1rem 5%;
 }
+nav ul { display: flex; list-style: none; }
+nav ul li { margin-left: 20px; }
+nav ul li a { color: white; text-decoration: none; }
+
+.hero {
+    text-align: center;
+    
+}
