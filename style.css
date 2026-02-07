@@ -39,7 +39,7 @@ button {
     background: #ff4757;
     color: white;
     border: none;
-    padding: 10px 7px;
+    padding: 10px 20px;
     cursor: pointer;
-    border-radius: 20px;
+    border-radius: 5px;
 }
