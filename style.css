@@ -26,3 +26,6 @@ nav ul li a { color: white; text-decoration: none; }
     gap: 20px;
     padding: 40px 5%;
 }
+.card {
+    background: red;
+    padding: 15px;}
